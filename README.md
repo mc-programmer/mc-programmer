@@ -1,7 +1,3 @@
-
-![Logo](https://klwebdesign.my/images/1_Dreamztech/career/programmers.png)
-
-
 ## 🚀 About Me
 I'm a young .net developer
 
