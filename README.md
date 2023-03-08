@@ -15,8 +15,8 @@ I'm DotNet Developer.also im 17 years old :sparkles: <br>
 
 ## Social networking
 
-[![Gmail Badge](https://img.shields.io/badge/-dyaeco13841384-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dyaeco13841384@gmail.com)](mailto:dyaeco13841384@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-MyLinkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-mehdi-alipour-9bbbb3268/)](https://www.linkedin.com/in/mohammad-mehdi-alipour-9bbbb3268/) 
+<!-- [![Gmail Badge](https://img.shields.io/badge/-dyaeco13841384@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dyaeco13841384@gmail.com)](mailto:dyaeco13841384@gmail.com) -->
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-mehdi-alipour-9bbbb3268/)](https://www.linkedin.com/in/mohammad-mehdi-alipour-9bbbb3268/) 
 <!-- [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/989014515051)](https://wa.me/+989014515051) -->
 <!---
 meyshad/meyshad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
