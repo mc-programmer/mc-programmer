@@ -4,8 +4,6 @@
 <h3 align="center">A  Dotnet developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
-
 - 🔭 I’m currently working on [Barnamehnevisan](https://barnamenevisan.org)
 
 - 🌱 I’m currently learning **Asp.net core, Asp.net web-api**
