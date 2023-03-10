@@ -18,7 +18,6 @@
 </p>
 <h2> More About me! </h2>
 
-<img align='right' src="https://mod-dotnet-bot.net/assets/images/gallery/anniversary-1.png" width="340">
 
 I am <b>Mohammad mehdi alipour</b>.
 I'm DotNet Developer.also im 17 years old :sparkles: <br>
