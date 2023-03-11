@@ -36,6 +36,3 @@ You can find me in [Barnamehnevisan](https://barnamenevisan.org)
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-dyaeco13841384@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dyaeco13841384@gmail.com)](mailto:dyaeco13841384@gmail.com) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-mehdi-alipour-9bbbb3268/)](https://www.linkedin.com/in/mohammad-mehdi-alipour-9bbbb3268/) 
-
-
-## Codejooyan Will be produced 🎆
