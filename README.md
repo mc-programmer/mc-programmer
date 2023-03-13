@@ -24,9 +24,9 @@ You can find me in [Barnamehnevisan](https://barnamenevisan.org)
 
 ## My favorite Languages and Tools
 
-<code><img height="30" src="https://th.bing.com/th/id/OIP.CeGuo7OzfB0d8MrBUm2xFwHaHa?pid=ImgDet&rs=1"></code>
-<code><img height="30" src="https://crackkey4u.com/wp-content/uploads/2019/05/8-1.png"></code>
-<code><img height="30" src="https://logodix.com/logo/773715.png"></code>
+<img height="30" src="https://th.bing.com/th/id/OIP.CeGuo7OzfB0d8MrBUm2xFwHaHa?pid=ImgDet&rs=1">
+<img height="30" src="https://crackkey4u.com/wp-content/uploads/2019/05/8-1.png">
+<img height="30" src="https://logodix.com/logo/773715.png">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://www.developersfeed.com/wp-content/uploads/2016/02/bootstrap-logo.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4"></code>
