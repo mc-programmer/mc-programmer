@@ -35,6 +35,7 @@ You can find me in [Barnamehnevisan](https://barnamenevisan.org)
 <code><img height="30" src="https://www.reblaze.com/blog/wp-content/uploads/sites/4/2019/10/16x9-Azure-cloud.png"></code>
 <code><img height="30" src="https://th.bing.com/th/id/R.a58728919c10c74e25a9b656c478f730?rik=gTN81Fi%2fSsuWFA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2flogo-jquery-png--500.png&ehk=THfdIYMhHMf47eaND6EF6ll%2bfX%2fihxV6PsV6dPHPDow%3d&risl=&pid=ImgRaw&r=0"></code>
 <code><img height="30" src="https://th.bing.com/th/id/R.077ca67b84f1238c2cd48077fd80a56e?rik=WV6kXsKevpAzMA&pid=ImgRaw&r=0"></code>
+<code><img height="30" src="https://th.bing.com/th/id/OIP.NgiGap8s6jKXKaz96KEDEAHaGq?pid=ImgDet&rs=1"></code>
 
 ## Social networking
 
