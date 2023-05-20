@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Barnamehnevisan](https://barnamenevisan.org)
 
-- 🌱 I’m currently learning **Asp.net core, Asp.net web-api**
+- 🌱 I’m currently learning **Asp.net core, Asp.net web-api , ML.NET , Identity Server 4**
 
 - 📫 How to reach me **dyaeco13841384@outlook.com**
 
