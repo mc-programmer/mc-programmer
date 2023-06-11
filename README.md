@@ -2,7 +2,7 @@
 <h3 align="center">A  Dotnet developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-- 🔭 I’m currently working on [Barnamehnevisan](https://barnamenevisan.org) & WHQ group
+- 🔭 I’m currently working on [Barnamehnevisan](https://barnamenevisan.org) & Code jooyan
 
 - 🌱 I’m currently learning **Asp.net core, Asp.net web-api , ML.NET , Identity Server 4**
 
