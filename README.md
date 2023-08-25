@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Barnamehnevisan](https://barnamenevisan.org) & Code jooyan
 
-- 🌱 I’m currently learning **Asp.net core, Asp.net web-api , ML.NET , Identity Server 4**
+- 🌱 I’m currently learning **Asp.net core, Asp.net web-api , Identity Server 4**
 
 - 📫 How to reach me **dyaeco13841384@outlook.com**
 
@@ -18,7 +18,7 @@
 
 
 I am <b>Mohammad mehdi alipour</b>.
-I'm DotNet Developer.also im 17 years old :sparkles: <br>
+I'm DotNet Developer. also im 17 years old :sparkles: <br>
 I'm Working too hard in any projects for grow up my skills 🤹🏽‍♂️
 You can find me in [Code Jooyan](https://codejooyan.github.io)
 
