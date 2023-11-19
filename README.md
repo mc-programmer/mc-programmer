@@ -18,7 +18,7 @@
 
 
 I am <b>Mohammad mehdi alipour</b>.
-I'm DotNet Developer. also im 17 years old :sparkles: <br>
+I'm DotNet Developer. also im 18 years old :sparkles: <br>
 I'm Working too hard in any projects for grow up my skills 🤹🏽‍♂️
 You can find me in [Code Jooyan](https://codejooyan.github.io)
 
