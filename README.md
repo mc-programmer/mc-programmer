@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Barnamehnevisan](https://barnamenevisan.org) & Code jooyan
 
-- 🌱 I’m currently learning **Asp.net core, Asp.net web-api , Identity Server 4**
+- 🌱 I’m currently learning **java script , web api , design patterns**
 
-- 📫 How to reach me **dyaeco13841384@outlook.com**
+- 📫 How to reach me **00senario@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
