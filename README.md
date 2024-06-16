@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad mehdi alipour</h1>
-<h3 align="center">A  Dotnet developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-- 🔭 I’m currently working on [Barnamehnevisan](https://barnamenevisan.org) & Code jooyan
 
 - 🌱 I’m currently learning **java script , web api , design patterns**
 
@@ -12,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/mohammad-mehdi-alipour-9bbbb3268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter kimanzi" height="30" width="40" /></a>
 </p>
 <h2> More About me! </h2>
 
@@ -38,8 +35,3 @@ You can find me in [Code Jooyan](https://codejooyan.github.io)
 <img height="30" src="https://th.bing.com/th/id/R.077ca67b84f1238c2cd48077fd80a56e?rik=WV6kXsKevpAzMA&pid=ImgRaw&r=0">
 <img height="30" src="https://th.bing.com/th/id/R.28473fadb61f4c9a9b8157ec45fa2574?rik=lKUtiDssmHt%2bNA&pid=ImgRaw&r=0">
 </p>
-
-## Social networking
-
-<!-- [![Gmail Badge](https://img.shields.io/badge/-dyaeco13841384@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dyaeco13841384@gmail.com)](mailto:dyaeco13841384@gmail.com) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-mehdi-alipour-9bbbb3268/)](https://www.linkedin.com/in/mohammad-mehdi-alipour-9bbbb3268/) 
