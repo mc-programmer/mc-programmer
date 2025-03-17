@@ -2,28 +2,14 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
-- 🌱 I’m currently learning **javascript , web api , design patterns**
+- 🌱 I’m a DOTNET developer
 
-- 📫 How to reach me **00senario@gmail.com**
+- 📫 How to reach me **mehdi.alipour1218@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
 </p>
 <h2> More About me! </h2>
 
 
-I am <b>Mohammad mehdi alipour</b>.
-I'm DotNet Developer. also im 19 years old :sparkles: <br>
-I'm Working too hard in any projects for grow up my skills 🤹🏽‍♂️
-You can find me in [Code Jooyan](https://codejooyan.github.io)
-
-## My favorite Languages and Tools
-
-<p>
-<img height="30" src="https://th.bing.com/th/id/OIP.CeGuo7OzfB0d8MrBUm2xFwHaHa?pid=ImgDet&rs=1">
-<img height="30" src="https://crackkey4u.com/wp-content/uploads/2019/05/8-1.png">
-<img height="30" src="https://logodix.com/logo/773715.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-</p>
+<q>I am a lifelong learner and I am constantly upgrading my skills and<br/> in this profile I will share with you all my experimental projects. </q>
