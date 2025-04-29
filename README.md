@@ -13,6 +13,6 @@
 More About me! 
 
 <q>I am a lifelong learner and I am constantly upgrading my skills and<br/> in this profile I will share with you all my experimental projects. </q>
-<br/>
+<hr/>
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mc-programmer&show_icons=true)
