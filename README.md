@@ -5,7 +5,4 @@
 
 <h4>- 🌱 I’m a software engineer witch means i hate vibe coding :) </h4>
 
-
-<hr/>
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mc-programmer&show_icons=true)
+<h5>I love training ai models and developing trading bots :D</h5>
