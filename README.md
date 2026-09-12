@@ -1,6 +1,7 @@
 # I'm XAU DESIGNER
 
-I write code, build things, break things, fix them,  
+I write code, build things, break things, fix them,
+
 and occasionally wonder why I wrote the code in the first place.
 
 ### Currently
@@ -25,3 +26,5 @@ I just have a direction.
 
 And yeah...  
 **I'm probably thinking right now.** ☕
+
+<img width="1536" height="1024" alt="ChatGPT Image Sep 12, 2026, 12_35_37 PM" src="https://github.com/user-attachments/assets/d7e40913-83b2-4b47-9dfc-d1a6336f716e" />
